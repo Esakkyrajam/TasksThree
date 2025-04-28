@@ -66,7 +66,7 @@ public class DriverMain {
         emp.calcTax();
 
         // Accept Product Info
-        System.out.println("\n--- Enter Product Details ---");
+        System.out.println("--- Enter Product Details ---");
         System.out.print("Enter Product ID: ");
         int pid = sc.nextInt();
         System.out.print("Enter Product Unit Price: ");
